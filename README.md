@@ -1,1 +1,16 @@
-![m](https://github.com/user-attachments/assets/3b3166ab-31e5-4f35-b411-e2afce887d5a)
+## Role
+**software developer**
+
+## Traits
+- curious
+- builder
+- explorer
+
+## Tagline
+building cool things with a curious mind
+
+## Interests
+**web** — hub for ideas, tools, and experiments
+
+## PS
+yes, genuinely love this!
